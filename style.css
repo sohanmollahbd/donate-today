@@ -1,0 +1,330 @@
+body {
+   margin: 0;
+   font-family: 'Poppins', sans-serif;
+}
+
+body p {
+   color: #707070;
+}
+
+/* doante section */
+
+.donate {
+   background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%), url(images/donation237.jpg);
+   background-repeat: no-repeat;
+   margin: 0;
+   padding: 160px;
+   background-size: cover;
+   text-align: center;
+}
+
+.donate h1 {
+   color: #fff;
+   font-size: 65px;
+}
+
+.donate p {
+   color: #fff;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 28px;
+   margin-bottom: 50px;
+}
+
+.link-button {
+   text-decoration: none;
+   color: #fff;
+   padding: 10px 15px;
+   background: rgba(255, 89, 89, 1);
+   font-weight: normal;
+   font-size: 20px;
+   line-height: 24px;
+   border-radius: 5px;
+   font-family: 'Poppins', sans-serif;
+}
+
+/* donate today section */
+
+.donate-text h1 {
+   font-family: Inter;
+   font-size: 45px;
+   font-weight: 700;
+   line-height: 54px;
+   letter-spacing: 0px;
+   text-align: center;
+   margin-top: 100px;
+}
+
+.donate-text p {
+   font-family: Poppins;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 28px;
+   text-align: center;
+
+}
+
+.flexible-container {
+   display: flex;
+   font-family: Inter;
+   font-size: 30px;
+   font-weight: 700;
+   line-height: 36px;
+   letter-spacing: 0px;
+   justify-content: center;
+}
+
+.flexible-container span {
+   background: rgba(250, 250, 250, 1);
+   margin: 20px;
+   padding: 30px;
+   color:rgba(112, 112, 112, 1);
+   border-radius: 5px;
+}
+
+.flexible-container span:nth-child(2) {
+   background-color: rgba(255, 238, 238, 1);
+   border: 3px solid rgba(255, 89, 89, 1);
+   color: #FF5959;;
+
+}
+
+.donate-today #taka {
+   font-size: 18px;
+   font-weight: normal;
+   line-height: 28px;
+   text-align: center;
+   width: 765px;
+   color: rgba(179, 179, 179, 1);
+   border-bottom: 1px solid #DADADA;
+   margin: 0 auto;
+}
+
+.donate-today .btn {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 16px 12px;
+   gap: 8px;
+   position: absolute;
+   width: 160px;
+   height: 56px;
+   left: 640px;
+   top: 1229.5px;
+   border-radius: 5px;
+   margin-top: 30px;
+   margin-left: 28px;
+}
+
+/* donate-plan */
+
+.donate-plan .donate-text h1 {
+   padding-top: 60px;
+
+
+}
+.donate-plan .card img {
+ width: 58px;
+}
+
+.donate-plan .card #donate-text {
+   width: 315px;
+   height: 153px;
+}
+
+#donate-text h3 {
+   font-size: 24px;
+   font-weight: 600;
+   line-height: 36px;
+   text-align: left;
+}
+
+#donate-text p {
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+   text-align: left;
+}
+
+
+.donate-plan .card {
+   width: 275px;
+   height: 250px;
+   padding: 10px 20px;
+   background: rgba(79, 157, 166, 0.1);
+   border-radius: 5px;
+   margin-right: 55px;
+   padding-top: 40px;
+   padding-bottom: 15px;
+}
+
+.donate-plan .card-2 {
+   width: 275px;
+   height: 250px;
+   padding: 10px 20px;
+   background: rgba(255, 89, 89, 0.1);
+   border-radius: 5px;
+   margin-right: 55px;
+   padding-top: 45px;
+}
+
+.donate-plan .card-3 {
+   width: 275px;
+   height: 250px;
+   padding: 10px 20px;
+   background: rgba(245, 159, 54, 0.1);
+   border-radius: 5px;
+   margin-right: 55px;
+   padding-top: 45px;
+}
+
+/* donation */
+
+.donation .text h1{
+   font-size: 45px;
+   font-weight: 700;
+   line-height: 54px;
+   text-align: left;
+   color: rgba(18, 18, 18, 1);
+
+}
+
+.donation .text p {
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 28px;
+   letter-spacing: 0px;
+   text-align: left;
+}
+
+
+
+.half-width {
+   width: 40%;
+   padding-left: 0;
+   padding-top: 110px; 
+}
+
+.donation .text {
+   padding-left: 100px;
+   padding-top: 125px;
+}
+
+.donation .font {
+   font-weight: normal;
+   text-decoration: none;
+   color: #fff;
+   padding: 10px 15px;
+   background: rgba(255, 89, 89, 1);
+   font-size: 20px;
+   line-height: 24px;
+   border-radius: 5px;
+   font-family: 'Poppins', sans-serif;
+}
+
+/* donation-2 */
+.donation .donation-2 {
+   padding-right: 50px;
+}
+
+
+.donation-img-2 {
+   width: 456px;
+   height: 447px;
+   border-radius: 5px;
+   padding-left: 100px;
+
+}
+
+.donation-3 .donation-img {
+   width: 456px;
+   height: 447px;
+   border-radius: 5px;
+}
+
+/* need-help */
+
+.donate-plan .cards .card-4,
+.donate-plan .cards .card-5,
+.donate-plan .cards .card-6 {
+   margin: 10px;
+   background-color: #d47b7b51;
+   padding: 30px;
+}
+
+.donate-text-need h5 {
+   font-size: 22px;
+   font-family: 'Poppins', sans-serif;
+   font-weight: bold;
+}
+
+
+/* Contact */
+
+.contact input[type=email] {
+   width: 275px;
+   height: 48px;
+   font-size: 16px;
+   line-height: 20px;
+   background: #D9D9D9;
+   border-radius: 5px 0px 0px 5px;
+   margin-top: 77px;
+   margin-left: 38px;
+   border: none;
+   padding-left: 20px;
+   font-family: 'Roboto', sans-serif;
+}
+
+.input {
+   width: 809px;
+   height: 200px;
+   background: #FFF4D6;
+   margin: 0 auto;
+}
+.btn-contact {
+   height: 50px;
+   width: 157px;
+   background: #FF5959;
+   border-radius: 0px 5px 5px 0px;
+   margin-top: 77px;
+   border: none;
+   color: rgba(255, 255, 255, 1);
+   font-size: 16px;
+   font-family: 'Roboto', sans-serif;
+}
+
+
+
+/* footer */
+.footer {
+   background: rgba(11, 13, 23, 1);
+   margin-top: 110px;
+   Height: 177px;
+   padding-top: 10px;
+}
+.footer-text {
+   text-align: center;
+}
+
+.footer h1 {
+   width: 158px;
+   height: 44px;
+   font-family: 'Lobster';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 36px;
+   line-height: 44px;
+   letter-spacing: 0.5px;
+   color: #FF5959;
+   font-family: 'Lobster', cursive;
+   margin: 40px auto;
+}
+
+.footer span {
+   color: rgba(217, 219, 225, 1);
+   font-family: 'Manrope', sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+}
